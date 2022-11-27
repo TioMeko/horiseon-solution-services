@@ -7,3 +7,11 @@ This project was made to enhance the search engine optimization for the Horiseon
 By showcasing the impact that semantic elements have when optimizing for SEO, it will solve the issue where websites are not being ranked by search engines and allow them to not only be ranked, but increase traffic.
 
 Having the chance to refactor code for a marketing agency, allowed me to solidify my knowledge of basic HTML and CSS while optimizing their website to meet SEO criteria. 
+
+## Website Showcase
+
+### <ins>[Horiseon Website](https://tiomeko.github.io/horiseon-solution-services/)</ins>
+
+<br>
+
+![Preview of Horiseon website](./assets/images/website-showcase.png)
